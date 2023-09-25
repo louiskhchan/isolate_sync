@@ -1,14 +1,14 @@
 name: isolate_sync
 description: A isolate helper for running future and stream in isolate, and we can use SyncValue to sync value updates from isolate to main thread.
 version: 0.0.1
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/my_org/my_repo
 
 environment:
   sdk: ^3.1.2
 
 # Add regular dependencies here.
-dependencies:
-  # path: ^1.8.0
+# dependencies:
+# path: ^1.8.0
 
 dev_dependencies:
   lints: ^2.0.0
